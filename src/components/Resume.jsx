@@ -11,7 +11,7 @@ export const Resume = () => {
             </h3>
           </Col>
           <Col md={6} xl={7} style={{ textAlign: "end", marginTop: "20px" }}>
-            <a href='/files/resume.pdf' className='download-btn' download>
+            <a href='./files/resume.pdf' className='download-btn' download>
               <span>Download</span>
             </a>
           </Col>
