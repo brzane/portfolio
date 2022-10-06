@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d750da65.css",
+    "main.js": "/portfolio/static/js/main.6365960b.js",
+    "static/js/787.daecd8dd.chunk.js": "/portfolio/static/js/787.daecd8dd.chunk.js",
+    "static/media/header-img.png": "/portfolio/static/media/header-img.ced82c011ac9df706493.png",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/pizza-stars.png": "/portfolio/static/media/pizza-stars.c4ef1e5302415428d087.png",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/my-shop.png": "/portfolio/static/media/my-shop.02ea323d91c2481472fa.png",
+    "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/aot-trivia.jpeg": "/portfolio/static/media/aot-trivia.8e332885274b080c2df2.jpeg",
+    "static/media/ghost-host.jpeg": "/portfolio/static/media/ghost-host.65abb7c1c4b8a311fdc2.jpeg",
+    "static/media/contact-img.svg": "/portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/smart-quiz.jpeg": "/portfolio/static/media/smart-quiz.3ea9047057ff1ac7a6ff.jpeg",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter3.svg": "/portfolio/static/media/meter3.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter2.svg": "/portfolio/static/media/meter2.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.4c6b0e277c13df2aec70a69f3adf1096.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.d750da65.css.map": "/portfolio/static/css/main.d750da65.css.map",
+    "main.6365960b.js.map": "/portfolio/static/js/main.6365960b.js.map",
+    "787.daecd8dd.chunk.js.map": "/portfolio/static/js/787.daecd8dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d750da65.css",
+    "static/js/main.6365960b.js"
+  ]
+}
