@@ -498,7 +498,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .btn-project-card {
   background-color: #121212 !important;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 .background-image-right {
   top: 20%;
