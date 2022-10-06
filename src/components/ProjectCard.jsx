@@ -1,0 +1,30 @@
+import { Col } from "react-bootstrap";
+
+export const ProjectCard = ({ title, description, imgUrl, demoUrl, ghUrl }) => {
+  return (
+    <Col size={12} sm={6} md={4}>
+      <div className='proj-imgbx'>
+        <img src={imgUrl} alt={title} />
+        <div className='proj-txtx'>
+          <h4>{title}</h4>
+          <span>{description}</span>
+          <br></br>
+          <a
+            href={ghUrl}
+            target='_blank'
+            rel='noreferrer'
+            className='btn btn-project-card'>
+            GitHub
+          </a>
+          <a
+            href={demoUrl}
+            target='_blank'
+            rel='noreferrer'
+            className='btn btn-project-card'>
+            Demo
+          </a>
+        </div>
+      </div>
+    </Col>
+  );
+};
