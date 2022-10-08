@@ -3,7 +3,7 @@ import { Col, Row } from "react-bootstrap";
 export const Resume = () => {
   return (
     <Col lg={12}>
-      <div className='newsletter-bx'>
+      <div className='resume-bx'>
         <Row>
           <Col lg={12} md={6} xl={5}>
             <h3>
