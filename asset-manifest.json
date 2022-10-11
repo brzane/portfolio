@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d613d7db.css",
-    "main.js": "/portfolio/static/js/main.b78e4dec.js",
+    "main.js": "/portfolio/static/js/main.1673414b.js",
     "static/js/787.daecd8dd.chunk.js": "/portfolio/static/js/787.daecd8dd.chunk.js",
     "static/media/header-img.png": "/portfolio/static/media/header-img.2eefbdb8fdf615a6107d.png",
     "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
@@ -13,6 +13,7 @@
     "static/media/pizza-stars.png": "/portfolio/static/media/pizza-stars.22e6ee9a20fe68910ae0.png",
     "static/media/aot-trivia.jpeg": "/portfolio/static/media/aot-trivia.8e332885274b080c2df2.jpeg",
     "static/media/ghost-host.jpeg": "/portfolio/static/media/ghost-host.65abb7c1c4b8a311fdc2.jpeg",
+    "static/media/hestia.png": "/portfolio/static/media/hestia.0a0ebb6ca51a1e526015.png",
     "static/media/contact-img.svg": "/portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/my-shop.png": "/portfolio/static/media/my-shop.6dd791a733d6bab58415.png",
     "static/media/smart-quiz.jpeg": "/portfolio/static/media/smart-quiz.3ea9047057ff1ac7a6ff.jpeg",
@@ -27,11 +28,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/facebook.svg": "/portfolio/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.d613d7db.css.map": "/portfolio/static/css/main.d613d7db.css.map",
-    "main.b78e4dec.js.map": "/portfolio/static/js/main.b78e4dec.js.map",
+    "main.1673414b.js.map": "/portfolio/static/js/main.1673414b.js.map",
     "787.daecd8dd.chunk.js.map": "/portfolio/static/js/787.daecd8dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d613d7db.css",
-    "static/js/main.b78e4dec.js"
+    "static/js/main.1673414b.js"
   ]
 }
