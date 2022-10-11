@@ -11,6 +11,13 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const projects = [
     {
+      title: "Hestia",
+      description: "Restaurant Management System ",
+      imgUrl: smartQuiz,
+      ghUrl: "https://github.com/brzane/hestia",
+      demoUrl: "https://www.youtube.com/watch?v=fglc-H9IU5w",
+    },
+    {
       title: "Pizza Stars",
       description: "Restaurant landing page",
       imgUrl: pizzaStars,
