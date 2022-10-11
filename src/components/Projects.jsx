@@ -5,6 +5,7 @@ import myShop from "../assets/img/my-shop.png";
 import aotTrivia from "../assets/img/aot-trivia.jpeg";
 import smartQuiz from "../assets/img/smart-quiz.jpeg";
 import ghostHost from "../assets/img/ghost-host.jpeg";
+import hestia from "../assets/img/hestia.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
@@ -13,7 +14,7 @@ export const Projects = () => {
     {
       title: "Hestia",
       description: "Restaurant Management System ",
-      imgUrl: smartQuiz,
+      imgUrl: hestia,
       ghUrl: "https://github.com/brzane/hestia",
       demoUrl: "https://www.youtube.com/watch?v=fglc-H9IU5w",
     },
